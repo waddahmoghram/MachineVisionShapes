@@ -6,5 +6,6 @@ provided with a file that contains the definitions of several shapes, such as ci
 * Column 2: shape name (str)
 * Column 3 & 4: Property 1 Name (str): Value (float)
 * Column 5 & 6: Property 2 Name: (str): Value (float)
-* and so on if more properties are needed
+* and so on if more properties are needed: 
+** For a circle, (X1, Y1) for the center & radius. 
 
